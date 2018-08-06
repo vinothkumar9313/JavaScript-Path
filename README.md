@@ -1,2 +1,2 @@
 # JavaScript-Path
-Learn JavaScript Basics
+Learn JavaScript Basics from  some concepts
