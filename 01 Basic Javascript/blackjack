@@ -1,7 +1,0 @@
-let card1 = "ace of spades",
-    card2 = "ten of hearts";
-
-console.log("welcome to blackjack");
-console.log("you are dealt:");
-console.log("   "+ card1);
-console.log("   " + card2);

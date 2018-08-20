@@ -1,9 +1,0 @@
-let firstname = "vinoth",
-    lastname = "kumar";
-    console.log(firstname+ " " + lastname);
-
-let num = 24,
-    num1 = 12;
-
- let answer = num+num1;
- console.log(answer); 
