@@ -1,0 +1,11 @@
+let value = "apple";
+console.log(typeof(value));
+
+let num = 72.23;
+console.log(typeof(num));
+
+
+let div = 10/0;
+console.log(div);
+
+

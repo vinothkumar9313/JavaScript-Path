@@ -1,0 +1,5 @@
+let num;
+console.log(num);
+
+let sales = null;
+console.log(sales, typeof(sales));

@@ -1,0 +1,11 @@
+let deck = ["ace of spades",
+            "two of spades",
+            "three of spades",
+            "four of spades"];
+
+let playersCard = [ deck[0], deck[3]];
+
+console.log("welcome to blackjack");
+console.log("you are dealt:");
+console.log("   " + playersCard[0]);
+console.log("   " + playersCard[1]);

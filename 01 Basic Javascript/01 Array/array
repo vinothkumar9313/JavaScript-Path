@@ -1,0 +1,26 @@
+let cities =['chennai', 'banglore', 'mumbai', 'kolkata' ];
+console.log(cities);
+console.log(cities[0]);
+console.log(cities[3]);
+
+
+let value = [1,2,23,5,6];                        //find length
+console.log("number of arrays:" + value.length);
+
+
+let values =[];
+values.push(22, 55);
+console.log(values);
+
+
+let remove =[1, 2, 3 , 5];
+remove.pop();
+console.log(remove);
+
+let test = [1, 2, 3 , 5];
+let result = test.pop();
+console.log(result);
+
+let test1=[1,2,3,5];
+test1.splice(0, 3);
+console.log(test1);
