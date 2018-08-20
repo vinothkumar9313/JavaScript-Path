@@ -1,0 +1,16 @@
+let state = 'KL';
+
+switch (state) {
+ case 'KL':
+    console.log('god\'s own country');
+    break;
+case 'TN':
+    console.log("Temple grounds");
+    break;
+case 'MH':
+    console.log("city of wealth");
+    break;
+default:
+    console.log("unknown");
+    break;
+}

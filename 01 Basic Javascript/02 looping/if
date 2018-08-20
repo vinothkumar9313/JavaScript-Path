@@ -1,0 +1,22 @@
+let state = 'TN';
+let taxPercent = 0;
+
+
+if (state === 'TN') {                 //1. if case
+    taxPercent = 10;
+}
+
+if (state !== 'TN') {
+    taxPercent = 5;
+}
+console.log(taxPercent);
+
+
+
+
+let score = 1000;                     //2. if case
+if (score >= 1000){
+    amount = score + 100;
+}
+console.log(amount);
+
